@@ -1,7 +1,6 @@
 # calculator
 This is a simple and interactive Calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The goal of this project was to practice and showcase my skills in web development, especially in creating interactive user interfaces with JavaScript.
 
-Features:
 Basic Operations: Perform addition, subtraction, multiplication, and division.
 Clear Button: Resets the calculator screen to 0.
 Responsive Design: The layout adjusts seamlessly to different screen sizes.
